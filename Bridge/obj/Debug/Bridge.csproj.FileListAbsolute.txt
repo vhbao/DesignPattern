@@ -1,0 +1,6 @@
+D:\mygit\Design_Pattern\Bridge\bin\Debug\Bridge.exe.config
+D:\mygit\Design_Pattern\Bridge\bin\Debug\Bridge.exe
+D:\mygit\Design_Pattern\Bridge\bin\Debug\Bridge.pdb
+D:\mygit\Design_Pattern\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\Bridge\obj\Debug\Bridge.exe
+D:\mygit\Design_Pattern\Bridge\obj\Debug\Bridge.pdb

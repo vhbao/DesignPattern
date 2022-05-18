@@ -1,0 +1,7 @@
+D:\mygit\Design_Pattern\Strategy\bin\Debug\Strategy.exe.config
+D:\mygit\Design_Pattern\Strategy\bin\Debug\Strategy.exe
+D:\mygit\Design_Pattern\Strategy\bin\Debug\Strategy.pdb
+D:\mygit\Design_Pattern\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\Strategy\obj\Debug\Strategy.exe
+D:\mygit\Design_Pattern\Strategy\obj\Debug\Strategy.pdb
+D:\mygit\Design_Pattern\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache

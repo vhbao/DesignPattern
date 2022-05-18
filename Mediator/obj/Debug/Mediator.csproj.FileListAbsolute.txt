@@ -1,0 +1,6 @@
+D:\mygit\Design_Pattern\Mediator\bin\Debug\Mediator.exe.config
+D:\mygit\Design_Pattern\Mediator\bin\Debug\Mediator.exe
+D:\mygit\Design_Pattern\Mediator\bin\Debug\Mediator.pdb
+D:\mygit\Design_Pattern\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\Mediator\obj\Debug\Mediator.exe
+D:\mygit\Design_Pattern\Mediator\obj\Debug\Mediator.pdb

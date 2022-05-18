@@ -1,0 +1,7 @@
+D:\mygit\Design_Pattern\Prototype\bin\Debug\Prototype.exe.config
+D:\mygit\Design_Pattern\Prototype\bin\Debug\Prototype.exe
+D:\mygit\Design_Pattern\Prototype\bin\Debug\Prototype.pdb
+D:\mygit\Design_Pattern\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\Prototype\obj\Debug\Prototype.exe
+D:\mygit\Design_Pattern\Prototype\obj\Debug\Prototype.pdb
+D:\mygit\Design_Pattern\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache

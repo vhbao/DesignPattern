@@ -1,0 +1,6 @@
+D:\mygit\Design_Pattern\Adapter\bin\Debug\Adapter.exe.config
+D:\mygit\Design_Pattern\Adapter\bin\Debug\Adapter.exe
+D:\mygit\Design_Pattern\Adapter\bin\Debug\Adapter.pdb
+D:\mygit\Design_Pattern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\Adapter\obj\Debug\Adapter.exe
+D:\mygit\Design_Pattern\Adapter\obj\Debug\Adapter.pdb

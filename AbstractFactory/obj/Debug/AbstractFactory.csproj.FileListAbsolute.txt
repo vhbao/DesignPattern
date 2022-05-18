@@ -1,0 +1,7 @@
+D:\mygit\Design_Pattern\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\mygit\Design_Pattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\mygit\Design_Pattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\mygit\Design_Pattern\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\mygit\Design_Pattern\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\mygit\Design_Pattern\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache

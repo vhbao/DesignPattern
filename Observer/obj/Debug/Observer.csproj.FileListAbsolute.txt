@@ -1,0 +1,6 @@
+D:\mygit\Design_Pattern\Observer\bin\Debug\Observer.exe.config
+D:\mygit\Design_Pattern\Observer\bin\Debug\Observer.exe
+D:\mygit\Design_Pattern\Observer\bin\Debug\Observer.pdb
+D:\mygit\Design_Pattern\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\Observer\obj\Debug\Observer.exe
+D:\mygit\Design_Pattern\Observer\obj\Debug\Observer.pdb

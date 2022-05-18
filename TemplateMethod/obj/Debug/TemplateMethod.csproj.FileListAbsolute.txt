@@ -1,0 +1,7 @@
+D:\mygit\Design_Pattern\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\mygit\Design_Pattern\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\mygit\Design_Pattern\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\mygit\Design_Pattern\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\mygit\Design_Pattern\TemplateMethod\obj\Debug\TemplateMethod.pdb
+D:\mygit\Design_Pattern\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache

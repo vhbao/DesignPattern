@@ -1,0 +1,7 @@
+D:\mygit\Design_Pattern\State\bin\Debug\State.exe.config
+D:\mygit\Design_Pattern\State\bin\Debug\State.exe
+D:\mygit\Design_Pattern\State\bin\Debug\State.pdb
+D:\mygit\Design_Pattern\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\State\obj\Debug\State.exe
+D:\mygit\Design_Pattern\State\obj\Debug\State.pdb
+D:\mygit\Design_Pattern\State\obj\Debug\State.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\mygit\Design_Pattern\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\mygit\Design_Pattern\Builder\bin\Debug\Builder.exe.config
+D:\mygit\Design_Pattern\Builder\bin\Debug\Builder.exe
+D:\mygit\Design_Pattern\Builder\bin\Debug\Builder.pdb
+D:\mygit\Design_Pattern\Builder\obj\Debug\Builder.exe
+D:\mygit\Design_Pattern\Builder\obj\Debug\Builder.pdb
+D:\mygit\Design_Pattern\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
